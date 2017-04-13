@@ -11,14 +11,12 @@
 
 #title{
   float: center;
-  margin-left: 0.75em;
-  font-family: 'Press+Start+2p';
+  font-family:"press+Start+2p";
   font-size: 28 px
   color: #dee1ab;}
 
 #logo{
     float: center;
-    margin-right: 0.75em
     padding: 10px}
 
 #content{
@@ -42,4 +40,5 @@
       width:75%;
       max-height: 80%;
       background-color:#8b60f6;
+      font-family:"Gloria+Hallelujah";
       overflow:scroll;}
